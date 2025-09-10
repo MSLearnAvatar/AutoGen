@@ -1,8 +1,6 @@
 # AutoGen
 AutoGen - Multi Agent
 Fastapi
-# AutoGen
-AutoGen - Multi Agent
 # AutoGen Multi-Agent Azure AI Avatar Chat
 
 ## 📋 개요
